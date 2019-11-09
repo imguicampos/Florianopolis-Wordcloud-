@@ -1,5 +1,4 @@
-# Florianopolis-Wordcloud-
-Wordcloud Python
+# Florianopolis-Wordcloud
 !pip install wordcloud -q
 import numpy as np
 import pandas as pd
